@@ -38,6 +38,8 @@ Para rodar este projeto é necessário ter instalado na sua máquina as seguinte
 <div align="center">
     <img src="src/assets/screenshot/home.png" />
     <img src="src/assets/screenshot/home-filter.png" />
+    <img src="src/assets/screenshot/home-saved-note.png" />
+    <img src="src/assets/screenshot/home-deleted-note.png" />
     <img src="src/assets/screenshot/home-modal.png" />
     <img src="src/assets/screenshot/modal-audio.png" />
 </div>
