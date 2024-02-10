@@ -1,6 +1,6 @@
 ## Sobre ✔️
 
-Projeto desenvolvido no curso de NextJs do Sujeito Programador, utilizando a nova arquitetura do NextJs e consumo de API.
+Lista de Anotações por mensagem de texto e voz, você fala por voz e ele reflete em texto e salva todas suas anotações em bloquinhos.
 
 ---
 
