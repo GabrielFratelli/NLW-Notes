@@ -3,7 +3,7 @@
 Lista de Anotações por mensagem de texto e voz, você fala por voz e ele reflete em texto e salva todas suas anotações em bloquinhos. 
 <br>
 <br>
-<a href="https://www.figma.com/file/IGO3umWjhPIjEQaMMVCSDl/NLW-expert-%E2%80%A2-Notes-(Community)?type=design&node-id=103-162&mode=design&t=O5AxyMd1DrXXRF0u-0" target="_blank">Clique aqui para acessar o Figma Web</a>
+<a href="https://www.figma.com/file/IGO3umWjhPIjEQaMMVCSDl/NLW-expert-%E2%80%A2-Notes-(Community)?type=design&node-id=103-162&mode=design&t=O5AxyMd1DrXXRF0u-0" target="_blank">Clique aqui para acessar o Figma</a>
 ---
 
 ## Tecnologias Utilizadas 📎
